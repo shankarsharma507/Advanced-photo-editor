@@ -6,7 +6,6 @@ A feature-rich photo manager with photo and video editing capabilities, written 
 * Export your photos for websites, create collages, or convert your videos to a smaller format.
 
 It should run on any platform that the required libraries can be run on.  So far, I have made Windows, Linux (Ubuntu 16+) and Android binaries.  It should be possible to create OSX and ios binaries as well, but I do not have the required hardware to do so.  
-Download latest binaries at: www.snuq.com/snuphotomanager/  
 
 Note that the android version is very beta - some features are missing, it is pretty slow, and it is not yet a signed executable (debug only for now).  
 
